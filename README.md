@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOHAMMADALI9
+- 👋 Hi, I’m MOHAMMAD ALI
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence and iot
 - 💞️ I’m looking to collaborate on tech programs, webinars
